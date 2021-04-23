@@ -1,0 +1,6 @@
+com\airhacks\workshops\business\registrations\control\VatCalculator.class
+com\airhacks\workshops\business\registrations\boundary\Registrations.class
+com\airhacks\workshops\business\registrations\boundary\RegistrationsResource.class
+com\airhacks\workshops\business\registrations\entity\Registration.class
+com\airhacks\workshops\business\JAXRSConfiguration.class
+com\airhacks\workshops\business\tracing\boundary\LoggerExposer.class

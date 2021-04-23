@@ -1,0 +1,5 @@
+com\airhacks\workshops\business\tracing\boundary\LoggerExposerIT.class
+com\airhacks\workshops\business\registrations\boundary\RegistrationsTest.class
+com\airhacks\workshops\business\tracing\boundary\LoggerInjectionSupport.class
+com\airhacks\workshops\business\registrations\control\VatCalculatorTest.class
+com\airhacks\workshops\business\registrations\entity\RegistrationTest.class
